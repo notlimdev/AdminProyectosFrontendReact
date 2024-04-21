@@ -88,7 +88,7 @@ const Login = () => {
       />
     </form>
 
-    {/* <nav
+    <nav
       className='lg:flex lg:justify-between'
     >
       <Link 
@@ -105,7 +105,7 @@ const Login = () => {
         Olvide mi contraseña
       </Link>
 
-    </nav> */}
+    </nav> 
    </>
   )
 }
